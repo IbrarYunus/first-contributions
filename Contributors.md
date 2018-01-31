@@ -2060,9 +2060,12 @@
 - [Sakhile Naga Koti Reddy](https://github.com/snkreddy)
 - [Harshdeep Kanhai](https://github.com/harshdeepkanhai)
 - [Thein Than Htun](https://github.com/tthtun)
+<<<<<<< HEAD
 - [Paul Baur](https://github.com/pjbaur)
 - [Ibrar Yunus](https://github.com/IbrarYunus)
 - [Diego Kascharowski](https://github.com/kascharowski)
 - [Kevin Lemon](https://github.com/KevinLemon14)
 - [Hashim Ikram](https://github.com/hikram/)
 - [mandymuf](https://github.com/mandymuf)
+=======
+>>>>>>> parent of ad42bb65... Add Paul Baur to Contributors list
